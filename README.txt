@@ -1,33 +1,66 @@
-Strata by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Portfolio Website
 
+Welcome to my personal portfolio website repository. This responsive portfolio showcases my skills, projects, and experience in data science, machine learning, and software development.
 
-A simple, minimalist template that actually began life as an unused redesign of my
-personal site. Includes a (configurable) parallax background effect, Poptrox-powered
-lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
+## Overview
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+This portfolio website is built with HTML, CSS, and JavaScript, featuring a clean, professional design that adapts to various screen sizes. The site includes:
 
-(* = Not included)
+- An about section detailing my background and skills  
+- A projects showcase with descriptions and links  
+- Contact information and social media links  
+- Responsive design for mobile and desktop viewing  
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+## Features
 
-AJ
-aj@lkn.io | @ajlkn
+- **Responsive Layout**: Optimized for viewing on devices of all sizes  
+- **Project Showcase**: Detailed descriptions of key projects with links to their repositories or demos  
+- **Skills Visualization**: Visual representation of technical skills and proficiencies  
+- **Clean Design**: Minimalist, professional aesthetic with intuitive navigation  
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+## Technologies Used
 
+- HTML5  
+- CSS3  
+- JavaScript  
+- Font Awesome for icons  
+- Google Fonts  
 
-Credits:
+## Local Development
 
-	Demo Images:
-		Unsplash (unsplash.com)
+To run this website locally:
 
-	Icons:
-		Font Awesome (fontawesome.io)
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Kapil-srivastava-okay/Portfolio_website.github.io.git
+    ```
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+2. Navigate to the project directory:
+    ```bash
+    cd Portfolio_website.github.io
+    ```
+
+3. Open `index.html` in your preferred browser.
+
+## Deployment
+
+This site is deployed using GitHub Pages and can be accessed at:  
+[https://kapil-srivastava-okay.github.io/Portfolio_website.github.io/](https://kapil-srivastava-okay.github.io/Portfolio_website.github.io/)
+
+## Future Improvements
+
+- Add a blog section  
+- Implement dark/light mode toggle  
+- Add more interactive elements  
+- Enhance project filtering capabilities  
+
+## Contact
+
+Feel free to connect with me:  
+- **Email**: [Your email]  
+- **LinkedIn**: [Your LinkedIn profile]  
+- **GitHub**: [https://github.com/Kapil-srivastava-okay](https://github.com/Kapil-srivastava-okay)
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
